@@ -1,9 +1,11 @@
-//Daniel Anderson
+/* Payton Green waz here
 
+*/
 import java.util.Scanner;
 
+public class p7DanielAndersonClone {
+   
 
-public class a7DanielAnderson {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -44,4 +46,5 @@ public class a7DanielAnderson {
 
         }
     }
-}
+} 
+
