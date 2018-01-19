@@ -1,4 +1,4 @@
-//Daniel Anderson
+//Daniel Anderson and Payton Green
 
 import java.util.Scanner;
 
